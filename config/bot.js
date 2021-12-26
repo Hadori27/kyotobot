@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'token',
+        token: 'OTE0NTg2OTY0NzY4OTkzMzAw.YaPNfA.l9U-_FGwPswARY44vF9B8wG7Ly8',
         prefix: '+',
         activity: 'Kyoto Bot 0.1 | Bêta',
     },
